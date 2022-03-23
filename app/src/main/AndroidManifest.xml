@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TodoMemo">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.edit.EditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.list.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
