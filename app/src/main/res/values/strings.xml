@@ -4,4 +4,6 @@
     <string name="todo_memo_content">Todo Memo Content</string>
     <string name="title">Title</string>
     <string name="content">Content</string>
+    <string name="click_navigate_to_edit_activity">click_navigate_to_edit_activity</string>
+    <string name="save">Save</string>
 </resources>
